@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Ryan
 
-<!--
-**rlightley/rlightley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software & Platform Engineer | Tech Leader
 
-Here are some ideas to get you started:
+I design, build, and scale reliable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ Platform Engineering, DevOps, and SRE
+- ☁️ Cloud-native architectures
+- 🛠️ Strong focus on automation, reliability, and developer experience
+- 🚀 Turning complex problems into simple, scalable solutions
+
+---
+
+### 🔧 What I Do
+
+- Build and operate high-performing platforms
+- Lead engineering teams and technical strategy
+- Design secure, scalable cloud infrastructure
+- Improve system reliability, performance, and delivery speed
+
+---
+
+### 🧠 Interests
+
+- Distributed systems
+- Developer productivity
+- Infrastructure as Code
